@@ -3,3 +3,4 @@ configuration tool -Ansible
 container tool -docker
 ci/cd tool -Jenkins
 build tool maven
+sonarqube - continuous inspection of code quality
