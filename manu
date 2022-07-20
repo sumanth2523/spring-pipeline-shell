@@ -5,3 +5,15 @@ ci/cd tool -Jenkins
 build tool maven
 sonarqube - continuous inspection of code quality
 i have a 3+ years experinace as aws devops engneer
+git clone
+cd /filename
+ls
+touch filename
+git status
+in red colour
+git add .
+double click
+git status
+git commit -m "b"
+git push origin master
+github 
