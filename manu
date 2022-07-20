@@ -1,1 +1,5 @@
 source code management git /github/gitlab
+configuration tool -Ansible
+container tool -docker
+ci/cd tool -Jenkins
+build tool maven
